@@ -13,4 +13,5 @@ Requirements
 
 ### Projects
 
-- [Backend](backend/README.md)
+- [API](backend/README.md)
+- [Web](frontend/README.md)
