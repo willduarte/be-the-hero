@@ -1,9 +1,10 @@
-# Be The Hero - Web
+# Be The Hero - Mobile
 
 Requirements
 
 * NodeJS
 * Yarn | Npm
+* Expo
 
 ### Web
 

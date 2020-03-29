@@ -9,9 +9,10 @@
 Requirements
 
 * NodeJS
-* Yarn
+* Yarn | Npm
 
 ### Projects
 
 - [API](backend/README.md)
 - [Web](frontend/README.md)
+- [Mobile](mobile/README.md)

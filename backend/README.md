@@ -27,7 +27,7 @@ Requirements
   npx knex migrate:latest
   ```
 
-3. Run express by
+3. Run project:
   ```bash
   yarn start
   ```
