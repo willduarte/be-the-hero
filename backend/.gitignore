@@ -1,3 +1,5 @@
 node_modules
 *.sqlite
 *.sqlite3
+
+package-lock.json
